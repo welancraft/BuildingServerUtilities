@@ -1,0 +1,9 @@
+modLoader = "javafml"
+loaderVersion = "[36,)"
+license = "AGPL v3"
+[[mods]]
+modId = "bsutilities"
+version = "${file.jarVersion}"
+displayName = "BuildingServerUtilities"
+authors = "Tapio"
+description = "A mod to provide creative building servers with safety"

@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "top.welancraft.bsutilities.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "bsutilities.mixin-refmap.json",
+  "minVersion": "0.8"
+}
